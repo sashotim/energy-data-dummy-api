@@ -1,0 +1,57 @@
+{
+	    "procent-of-energy-consumption": [
+		            {
+				                "year": 2019,
+						            "stats": [
+								                    	{
+												                        "id": 1,
+															                        "type": "Nuclear",
+																		                        "amount-in-TWh": 71.09,
+																					                        "procent": 13.8
+																								                    },
+																										                        {
+																														                        "id": 2,
+																																	                        "type": "Brown Coal",
+																																				                        "amount-in-TWh": 102.18,
+																																							                        "procent": 19.9
+																																										                    },
+																																												                        {
+																																																                        "id": 1,
+																																																			                        "type": "Natural Gas",
+																																																						                        "amount-in-TWh": 54.05,
+																																																									                        "procent": 10.5
+																																																												                    },
+																																																														                        {
+																																																																		                        "id": 1,
+																																																																					                        "type": "Hard Coal",
+																																																																								                        "amount-in-TWh": 48.69,
+																																																																											                        "procent": 9.5
+																																																																														                    },
+																																																																																                        {
+																																																																																				                        "id": 1,
+																																																																																							                        "type": "Wind",
+																																																																																										                        "amount-in-TWh": 127.22,
+																																																																																													                        "procent": 24.8
+																																																																																																                    },
+																																																																																																		                        {
+																																																																																																						                        "id": 1,
+																																																																																																									                        "type": "Solar",
+																																																																																																												                        "amount-in-TWh": 46.54,
+																																																																																																															                        "procent": 9.1
+																																																																																																																		                    },
+																																																																																																																				                        {
+																																																																																																																								                        "id": 1,
+																																																																																																																											                        "type": "Biomass",
+																																																																																																																														                        "amount-in-TWh": 44.42,
+																																																																																																																																	                        "procent": 8.7
+																																																																																																																																				                    }, 
+																																																																																																																																						                        {
+																																																																																																																																										                        "id": 1,
+																																																																																																																																													                        "type": "Hydro",
+																																																																																																																																																                        "amount-in-TWh": 19.23,
+																																																																																																																																																			                        "procent": 3.7
+																																																																																																																																																						                    } 
+																																																																																																																																																								                ]
+																																																																																																																																																										        }
+																																																																																																																																																											    ] 
+} 
